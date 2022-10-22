@@ -45,13 +45,14 @@ h3 {
     position: absolute;
     right: 300px;
     top: 50;
+    padding-top: 50px;
 }
 
-.top-cloud {
+.bottom-cloud {
     position: absolute;
-    right: 300px;
-    top: 50;
-    padding-top: 50px;
+    left: 300px;
+    bottom: 300px;
+    
 }
 
 .btn {
